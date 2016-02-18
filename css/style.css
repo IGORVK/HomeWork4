@@ -175,7 +175,6 @@ h1.headP {
 
 .wrapper-cntnt  {
 	width: 1000px;
-	height: 544px;
 	overflow: hidden;
 }
 
@@ -195,13 +194,12 @@ h1.headP {
 	width: 580px;
 	padding-bottom: 20000px;
 	margin-bottom: -20000px;
-	margin: 0 auto;
 	background-color: #fff;
 
 }
 
 .block-right {
-	float: left;
+	float: right;
 	width: 209px;
 	padding-bottom: 20000px;
 	margin-bottom: -20000px;
